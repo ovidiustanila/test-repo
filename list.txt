@@ -5,3 +5,4 @@ ALRIGHT
 CORRECT
 4
 selective replication
+selective + jenkins
